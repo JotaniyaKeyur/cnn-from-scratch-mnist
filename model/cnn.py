@@ -142,7 +142,6 @@ class MultiClassClassification:
         self.dK = dK
         self.db_conv = db_conv
 
-
     # Update
     def update(self):
 
